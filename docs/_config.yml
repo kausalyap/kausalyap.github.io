@@ -19,7 +19,7 @@ plugins:
 # Author settings
 author:
   name: "Kausi"
-  avatar: "/assets/images/profile.jpg"
+  avatar: ""
   bio: "Engineer. Learner. Writer."
   location: "Michigan, US"
   email: ""
@@ -33,12 +33,11 @@ author:
 
 
 # Social sharing image (optional)
-og_image: "/assets/images/site-preview.png"
+og_image: ""
 
 # Navigation (edit to match your pages)
 header_pages:
   - about.md
-  - contact.md
 
 # Footer settings
 footer:
